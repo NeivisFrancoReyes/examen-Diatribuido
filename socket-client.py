@@ -4,12 +4,12 @@ Created and adapted on Fri Nov 4 14:44:26 2021
 @author: Willian
 """
 
-from conexionsql import pyodbc 
+
 import socket
 import sys
 
 
-HOST = 'localhost'                 # Symbolic name meaning all available interfaces
+HOST = '10.0.0.53'                 # Symbolic name meaning all available interfaces
 PORT = 50007  
 mBuffer=1024
 
