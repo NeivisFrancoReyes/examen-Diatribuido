@@ -3,6 +3,7 @@ server = 'localhost'
 
 bd = 'Estudiantes'
 
+
 usuario = 'sa'
 contrasena = 'Dayanara1814'
 
